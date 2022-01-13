@@ -5,6 +5,7 @@ public class inicio {
 		int x = 2;
 		String cad = "hola mundo";
 		System.out.println(cad);
+		System.out.println(x);
 	}
 
 }
